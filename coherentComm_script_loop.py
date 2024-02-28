@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 28 01:37:46 2024
-
-@author: ub
-"""
-
 from IPython import get_ipython;
 import numpy as np
 from math import sin, pi
