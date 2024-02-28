@@ -1,14 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb 28 01:37:46 2024
-
-@author: ub
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
 Created on Tue Feb 27 21:39:22 2024
 
 @author: Gabriele Lovicu 
